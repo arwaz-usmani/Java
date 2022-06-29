@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af8b45d9-8525-463a-849f-942df3d3528a" name="Changes" comment="2 commit">
-      <change afterPath="$PROJECT_DIR$/src/Pattern_Printing/Character_pattern_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_Printing/Character_pattern_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_Printing/Character_pattern_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_Printing/Character_pattern_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_Printing/inverted_triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_Printing/mirror_image_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_Printing/mirror_number_pattern.java" afterDir="false" />
+    <list default="true" id="af8b45d9-8525-463a-849f-942df3d3528a" name="Changes" comment="3 commit">
+      <change afterPath="$PROJECT_DIR$/src/Pattern_Printing/Isoceles_triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_Printing/Triangle_of_numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +42,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.inverted_triangle">
-    <configuration name="Character_pattern_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern_Printing.Character_pattern_3" />
+  <component name="RunManager" selected="Application.Triangle_of_numbers">
+    <configuration name="Isoceles_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_Printing.Isoceles_triangle" />
       <module name="Practice_codes" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Character_pattern_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern_Printing.Character_pattern_4" />
+    <configuration name="Triangle_of_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_Printing.Triangle_of_numbers" />
       <module name="Practice_codes" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Triangle_of_numbers" />
+        <item itemvalue="Application.Isoceles_triangle" />
         <item itemvalue="Application.inverted_triangle" />
         <item itemvalue="Application.mirror_number_pattern" />
         <item itemvalue="Application.mirror_image_pattern" />
-        <item itemvalue="Application.Character_pattern_4" />
-        <item itemvalue="Application.Character_pattern_3" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656308513493</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3 commit">
+      <created>1656396819566</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656396819566</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +165,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="2 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 commit" />
+    <MESSAGE value="3 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 commit" />
   </component>
 </project>
