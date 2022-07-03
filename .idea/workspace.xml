@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af8b45d9-8525-463a-849f-942df3d3528a" name="Changes" comment="3 commit">
-      <change afterPath="$PROJECT_DIR$/src/Pattern_Printing/Isoceles_triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_Printing/Triangle_of_numbers.java" afterDir="false" />
+    <list default="true" id="af8b45d9-8525-463a-849f-942df3d3528a" name="Changes" comment="4 commit">
+      <change afterPath="$PROJECT_DIR$/src/Basics/Fibonacci_Series.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Triangle_of_numbers">
+  <component name="RunManager" selected="Application.Fibonacci_Series">
+    <configuration name="Fibonacci_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics.Fibonacci_Series" />
+      <module name="Practice_codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Isoceles_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern_Printing.Isoceles_triangle" />
       <module name="Practice_codes" />
@@ -82,19 +94,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mirror_image_pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern_Printing.mirror_image_pattern" />
-      <module name="Practice_codes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Pattern_Printing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="mirror_number_pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern_Printing.mirror_number_pattern" />
       <module name="Practice_codes" />
@@ -110,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci_Series" />
         <item itemvalue="Application.Triangle_of_numbers" />
         <item itemvalue="Application.Isoceles_triangle" />
         <item itemvalue="Application.inverted_triangle" />
         <item itemvalue="Application.mirror_number_pattern" />
-        <item itemvalue="Application.mirror_image_pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656396819566</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4 commit">
+      <created>1656478656587</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656478656587</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +172,7 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="2 commit" />
     <MESSAGE value="3 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 commit" />
+    <MESSAGE value="4 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 commit" />
   </component>
 </project>
