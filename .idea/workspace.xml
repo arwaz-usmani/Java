@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af8b45d9-8525-463a-849f-942df3d3528a" name="Changes" comment="5 commit">
-      <change afterPath="$PROJECT_DIR$/src/Array/Array_start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Swap_alternatives.java" afterDir="false" />
+    <list default="true" id="af8b45d9-8525-463a-849f-942df3d3528a" name="Changes" comment="6 commit">
+      <change afterPath="$PROJECT_DIR$/src/Array/Find_unique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Sum_of_elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/GCD_LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Count_all_words.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/Prime_No.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/Prime_No.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +43,25 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Swap_alternatives">
-    <configuration name="Array_start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Array_start" />
+  <component name="RunManager" selected="Application.Count_all_words">
+    <configuration name="Count_all_words" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Count_all_words" />
+      <module name="Practice_codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Find_unique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Find_unique" />
       <module name="Practice_codes" />
       <extension name="coverage">
         <pattern>
@@ -57,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.Fibonacci_Series" />
+    <configuration name="GCD_LCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics.GCD_LCM" />
       <module name="Practice_codes" />
       <extension name="coverage">
         <pattern>
@@ -70,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Isoceles_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern_Printing.Isoceles_triangle" />
+    <configuration name="Prime_No" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics.Prime_No" />
       <module name="Practice_codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern_Printing.*" />
+          <option name="PATTERN" value="Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangle_of_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern_Printing.Triangle_of_numbers" />
-      <module name="Practice_codes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Pattern_Printing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Count_all_words" />
+        <item itemvalue="Application.Prime_No" />
+        <item itemvalue="Application.GCD_LCM" />
+        <item itemvalue="Application.Find_unique" />
         <item itemvalue="Application.Swap_alternatives" />
-        <item itemvalue="Application.Array_start" />
-        <item itemvalue="Application.Fibonacci_Series" />
-        <item itemvalue="Application.Triangle_of_numbers" />
-        <item itemvalue="Application.Isoceles_triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656822119998</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="6 commit">
+      <created>1657859068044</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657859068044</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +193,7 @@
     <MESSAGE value="3 commit" />
     <MESSAGE value="4 commit" />
     <MESSAGE value="5 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 commit" />
+    <MESSAGE value="6 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 commit" />
   </component>
 </project>
